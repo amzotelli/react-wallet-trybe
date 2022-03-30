@@ -61,7 +61,7 @@ Neste projeto eu precisei desenvolver uma carteira de controle de gastos com con
   - Desenvolva uma tabela com os gastos contendo as seguintes características
   - Cria um botão para deletar uma despesa da tabela
 
-## Application with CSS
+## Print das telas da Aplicação com CSS
 
 ![preview login](https://github.com/amzotelli/react-wallet-trybe/blob/main/preview-login.png?raw=true)
 ![preview wallet](https://github.com/amzotelli/react-wallet-trybe/blob/main/preview-carteira.png?raw=true)
